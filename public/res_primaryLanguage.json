@@ -11,42 +11,56 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "The was the most expanded application I had opportunity to work with. This application was built with React.  The page renders a gallery of images, and the user is able to filter the images via a dropdown menu.  I learned a lot while building this app.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gallery-of-horns/ScreenshotGalleryOfHornsCrop.png"
         ],
-        "url": "",
+        "url": "https://beautiful-scone-dc50be.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },   
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Memory Flip",
+        "startDate": "2022",
+        "description": " This was a group project while I attended Code Fellows.  We created a functional flip card style memory game that helps improve memory recall.  The application was built with HTML, CSS and JavaScript, while using local storage for score tracking",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/memory-flip/screenshotMemoryFlip.png"
         ],
-        "url": "https://github.com",
+        "url": "https://mtorres6739.github.io/Memory-Game/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +69,25 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This was one of the first apps I was working on while attending Code Fellows. I had to develop a front-end implementation for app that shows a graph that updates calculations in real time. This was also my first project using JavaScript.  I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon-cookies/screenshotSalmonCookies.png"
         ],
-        "url": "https://github.com",
+        "url": "https://mtorres6739.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
