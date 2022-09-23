@@ -94,11 +94,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Army National Guard",
+        "title": "Public Affairs Officer",
+        "years": "10.2011 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "DIVIDS"
         ],
         "technologies": [
           "REST API",
@@ -113,18 +113,57 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "REVAttitude",
+        "title": "CEO, CFO & Founder",
+        "years": "06.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "React"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML5",
+          "CSS3",
+          "Sass",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Bootstrap",
+          "Wordpress"
+        ]
+      },
+      {
+        "company": "CARR Commercial Real Estate",
+        "title": "Agent",
+        "years": "01.2022 - 08.2022",
+        "mainTech": [
+          "Salesforce"
+        ],
+        "technologies": [
+          "Salesforce",
+          "Microsoft Office"
+        ]
+      },
+      {
+        "company": "Beam Benefits",
+        "title": "Market Development Executive",
+        "years": "06.2021 - 01.2022",
+        "mainTech": [
+          "Salesforce"
+        ],
+        "technologies": [
+          "Salesforce",
+          "Salesloft",
+          "Microsoft Office"
+        ]
+      },
+      {
+        "company": "MetLife",
+        "title": "Small Market Sales Rep",
+        "years": "06.2015 - 06.2021",
+        "mainTech": [
+          "Salesforce"
+        ],
+        "technologies": [
+          "Salesforce",
+          "Microsoft Office"
         ]
       }
     ]

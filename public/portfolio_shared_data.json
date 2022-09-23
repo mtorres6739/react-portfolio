@@ -35,16 +35,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
@@ -60,14 +50,59 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "github",
+          "class": "devicon-github-plain",
+          "level": "70"
+        },
+        {
+          "name": "Visual Studio Code",
+          "class": "devicon-visualstudiocode-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "50"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "50"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "50"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "50"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "70"
+        },
+        {
+          "name": "Windows",
+          "class": "devicon-windows8-original",
+          "level": "70"
+        },
+        {
+          "name": "Mac",
+          "class": "devicon-apple-original",
+          "level": "70"
         }
       ]
     }
