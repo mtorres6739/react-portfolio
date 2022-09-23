@@ -5,16 +5,22 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mtorres6739",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/mathew_david_torres/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mathewtorres/",
+          "class": "fab fa-linkedin"
         }
+        
       ],
-      "image": "myProfile.jpg"
+      "image": "mathew-torres.jpg"
     },
     "skills": {
       "icons": [
